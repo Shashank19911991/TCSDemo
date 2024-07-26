@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T17:02:51 IST" name="Default suite" finished-at="2024-07-26T17:02:57 IST" duration-ms="5394">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T17:02:51 IST" name="Default test" finished-at="2024-07-26T17:02:57 IST" duration-ms="5394">
+      <class name="API_Test.CreatePet">
+        <test-method is-config="true" signature="setup()[pri:0, instance:API_Test.CreatePet@f78a47e]" started-at="2024-07-26T17:02:51 IST" name="setup" finished-at="2024-07-26T17:02:52 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAPIPositive()[pri:0, instance:API_Test.CreatePet@f78a47e]" started-at="2024-07-26T17:02:52 IST" name="testAPIPositive" finished-at="2024-07-26T17:02:56 IST" duration-ms="3716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPIPositive -->
+        <test-method signature="testNegative()[pri:0, instance:API_Test.CreatePet@f78a47e]" started-at="2024-07-26T17:02:56 IST" name="testNegative" finished-at="2024-07-26T17:02:57 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegative -->
+      </class> <!-- API_Test.CreatePet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

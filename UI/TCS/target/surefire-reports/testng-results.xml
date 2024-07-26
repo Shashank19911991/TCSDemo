@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T11:41:57 IST" name="TestPackage.TestHomePage" finished-at="2024-07-26T11:42:03 IST" duration-ms="6536">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T11:41:57 IST" name="Command line test" finished-at="2024-07-26T11:42:03 IST" duration-ms="6536">
+      <class name="TestPackage.TestHomePage">
+        <test-method is-config="true" signature="Login()[pri:0, instance:TestPackage.TestHomePage@476b0ae6]" started-at="2024-07-26T11:41:57 IST" name="Login" finished-at="2024-07-26T11:42:01 IST" duration-ms="4236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="LoginTest()[pri:0, instance:TestPackage.TestHomePage@476b0ae6]" started-at="2024-07-26T11:42:01 IST" name="LoginTest" finished-at="2024-07-26T11:42:03 IST" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="Flush()[pri:0, instance:TestPackage.TestHomePage@476b0ae6]" started-at="2024-07-26T11:42:03 IST" name="Flush" finished-at="2024-07-26T11:42:03 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flush -->
+      </class> <!-- TestPackage.TestHomePage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestPackage.TestHomePage -->
+</testng-results>
